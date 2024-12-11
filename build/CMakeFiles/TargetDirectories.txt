@@ -1,0 +1,3 @@
+C:/Users/user/image-processing-application/build/CMakeFiles/OBJECTDEDUCTION.dir
+C:/Users/user/image-processing-application/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/image-processing-application/build/CMakeFiles/ZERO_CHECK.dir

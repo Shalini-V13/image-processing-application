@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/ObjectDeduction/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OBJECTDEDUCTION.dir/includes_CXX.rsp  -o CMakeFiles\\OBJECTDEDUCTION.dir\\src\\Main.cpp.obj -c D:\\ObjectDeduction\\src\\Main.cpp",
+  "file": "D:/ObjectDeduction/src/Main.cpp",
+  "output": "CMakeFiles/OBJECTDEDUCTION.dir/src/Main.cpp.obj"
+}
+]

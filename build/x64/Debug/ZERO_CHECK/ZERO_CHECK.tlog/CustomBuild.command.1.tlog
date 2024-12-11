@@ -1,0 +1,10 @@
+^C:\USERS\USER\IMAGE-PROCESSING-APPLICATION\BUILD\CMAKEFILES\ECC8A84BE43A4DC5DF9546D40C33FED7\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/user/image-processing-application -BC:/Users/user/image-processing-application/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/image-processing-application/build/OBJECTDEDUCTION.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
