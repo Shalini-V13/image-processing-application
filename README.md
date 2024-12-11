@@ -24,6 +24,4 @@ This code demonstrates basic image processing techniques using the OpenCV librar
 7. Output Information
     Logs the number of detected contours in the console.
 
-
-Usage
 Ensure OpenCV is installed and set up in your development environment. Run the program, and it will display the results in graphical windows. Use the imshow function to visualize each processing step.
